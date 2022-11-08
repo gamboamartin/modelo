@@ -4,7 +4,7 @@
  * Clase definida para activar elementos en la base de datos
  * @version 1.0.0
  */
-namespace base\orm;
+namespace gamboamartin\modelo;
 use gamboamartin\errores\errores;
 use JetBrains\PhpStorm\Pure;
 use stdClass;

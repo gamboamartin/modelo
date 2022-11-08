@@ -1,10 +1,9 @@
 <?php
 namespace tests\base;
-
-use base\orm\activaciones;
 use gamboamartin\administrador\models\adm_accion_grupo;
 use gamboamartin\administrador\models\adm_campo;
 use gamboamartin\administrador\models\adm_dia;
+use gamboamartin\modelo\activaciones;
 use gamboamartin\errores\errores;
 use gamboamartin\test\liberator;
 use gamboamartin\test\test;
